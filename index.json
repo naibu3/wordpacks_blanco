@@ -1,0 +1,26 @@
+{
+  "indexSchemaVersion": 1,
+  "updatedAt": "2026-02-09T00:00:00Z",
+  "packs": [
+    {
+      "id": "comida_es_v1",
+      "title": "Comida",
+      "language": "es",
+      "description": "Platos y alimentos conocidos",
+      "version": 1,
+      "url": "packs/comida_es_v1.json",
+      "sha256": "",
+      "sizeBytes": 0
+    },
+    {
+      "id": "ciudades_es_v1",
+      "title": "Ciudades",
+      "language": "es",
+      "description": "Ciudades famosas del mundo",
+      "version": 1,
+      "url": "packs/ciudades_es_v1.json",
+      "sha256": "",
+      "sizeBytes": 0
+    }
+  ]
+}
