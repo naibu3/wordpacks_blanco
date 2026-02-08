@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "comida_es_v1",
+  "title": "Comida",
+  "language": "es",
+  "description": "Platos y alimentos conocidos",
+  "version": 1,
+  "entries": [
+    { "word": "Pizza", "hint": "Italia" },
+    { "word": "Sushi", "hint": "Japón" },
+    { "word": "Hamburguesa", "hint": "Fast food" },
+    { "word": "Paella", "hint": "Valencia" },
+    { "word": "Tacos", "hint": "México" },
+    { "word": "Croissant", "hint": "Francia" },
+    { "word": "Ramen", "hint": "Fideos" }
+  ]
+}
