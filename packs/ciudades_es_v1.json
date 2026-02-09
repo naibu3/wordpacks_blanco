@@ -12,6 +12,8 @@
     { "word": "Tokio", "hint": "Japón" },
     { "word": "Roma", "hint": "Imperio" },
     { "word": "Londres", "hint": "Big Ben" },
-    { "word": "Berlín", "hint": "Alemania" }
+    { "word": "Berlín", "hint": "Alemania" },
+    { "word": "Lisboa", "hint": "Tranvía" },
+    { "word": "Sevilla", "hint": "Silla" },
   ]
 }
