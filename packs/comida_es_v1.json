@@ -6,12 +6,24 @@
   "description": "Platos y alimentos conocidos",
   "version": 1,
   "entries": [
-    { "word": "Pizza", "hint": "Italia" },
+    { "word": "Pizza", "hint": "Masa" },
     { "word": "Sushi", "hint": "Japón" },
-    { "word": "Hamburguesa", "hint": "Fast food" },
     { "word": "Paella", "hint": "Valencia" },
     { "word": "Tacos", "hint": "México" },
     { "word": "Croissant", "hint": "Francia" },
-    { "word": "Ramen", "hint": "Fideos" }
+    { "word": "Ramen", "hint": "Fideos" },
+    { "word": "Paella", "hint": "Valencia" },
+    { "word": "Plátano", "hint": "Amarillo" },
+    { "word": "Lechuga", "hint": "Verde" },
+    { "word": "Albóndigas", "hint": "Salsa" },
+    { "word": "Hamburguesa", "hint": "Pepinillos" },
+    { "word": "Bacalao", "hint": "Mar" },
+    { "word": "Almejas", "hint": "Ajo" },
+    { "word": "Ajo", "hint": "Aceite" },
+    { "word": "Alioli", "hint": "Aceite" },
+    { "word": "Tortilla", "hint": "Cebolla" },
+    { "word": "Lechuga", "hint": "Verde" },
+    { "word": "Barbacoa", "hint": "Costillas" },
+    { "word": "Manzana", "hint": "Dentista" },
   ]
 }
